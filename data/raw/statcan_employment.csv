@@ -1,0 +1,1457 @@
+province_code,province_name,sector_code,sector_name,sector_category,year,employed_thousands,avg_annual_salary_cad,unemployment_rate_pct,part_time_pct
+AB,Alberta,PS-FED,Federal government,Public Administration,2010,28.13,89130.0,7.8,23.2
+AB,Alberta,PS-FED,Federal government,Public Administration,2011,27.32,90616.0,7.3,24.6
+AB,Alberta,PS-FED,Federal government,Public Administration,2012,28.27,94184.0,5.4,26.8
+AB,Alberta,PS-FED,Federal government,Public Administration,2013,28.45,102424.0,5.7,15.6
+AB,Alberta,PS-FED,Federal government,Public Administration,2014,28.72,98630.0,7.6,22.1
+AB,Alberta,PS-FED,Federal government,Public Administration,2015,28.63,101963.0,8.4,26.3
+AB,Alberta,PS-FED,Federal government,Public Administration,2016,28.67,105565.0,5.8,12.7
+AB,Alberta,PS-FED,Federal government,Public Administration,2017,29.17,110773.0,7.2,27.5
+AB,Alberta,PS-FED,Federal government,Public Administration,2018,28.92,109357.0,5.8,15.0
+AB,Alberta,PS-FED,Federal government,Public Administration,2019,29.24,111999.0,4.6,22.7
+AB,Alberta,PS-FED,Federal government,Public Administration,2020,30.35,119687.0,7.7,24.9
+AB,Alberta,PS-FED,Federal government,Public Administration,2021,29.93,121504.0,6.9,14.2
+AB,Alberta,PS-FED,Federal government,Public Administration,2022,30.03,123981.0,7.4,22.6
+AB,Alberta,PS-FED,Federal government,Public Administration,2023,29.22,125607.0,5.8,21.1
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2010,94.61,81498.0,6.8,19.5
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2011,93.53,79147.0,6.7,20.9
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2012,97.94,83899.0,3.7,19.0
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2013,99.14,83515.0,7.8,15.7
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2014,97.49,87382.0,5.0,22.6
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2015,99.21,88670.0,6.8,18.5
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2016,101.54,88660.0,3.6,13.4
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2017,100.03,94072.0,4.3,20.0
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2018,103.61,96309.0,5.7,18.1
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2019,103.24,97178.0,5.3,13.4
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2020,99.71,96859.0,8.0,23.2
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2021,106.45,106332.0,7.4,23.5
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2022,105.55,104255.0,4.0,26.4
+AB,Alberta,PS-PROV,Provincial and territorial government,Public Administration,2023,109.48,101952.0,5.0,21.3
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2010,54.51,65050.0,7.3,23.5
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2011,55.85,69746.0,6.4,22.4
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2012,55.46,71827.0,3.7,19.9
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2013,57.72,74013.0,4.0,21.4
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2014,57.13,72973.0,6.4,17.5
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2015,58.94,76423.0,8.3,19.7
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2016,59.36,80842.0,5.9,19.9
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2017,60.16,78431.0,5.9,16.3
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2018,59.77,81819.0,5.7,12.3
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2019,62.21,85323.0,4.2,20.9
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2020,57.31,85776.0,4.9,22.6
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2021,65.0,89571.0,4.0,26.7
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2022,62.34,88805.0,6.3,17.9
+AB,Alberta,PS-LOCAL,Local government,Public Administration,2023,63.43,96097.0,5.1,27.2
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2010,115.66,71662.0,4.8,27.0
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2011,118.66,72793.0,5.7,27.9
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2012,121.13,79229.0,8.0,26.3
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2013,124.37,80574.0,7.4,22.6
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2014,129.04,80497.0,7.2,16.2
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2015,127.72,78118.0,4.1,25.3
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2016,133.01,82538.0,6.5,26.0
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2017,139.58,83288.0,7.4,27.5
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2018,140.11,87295.0,3.6,15.7
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2019,143.81,91655.0,4.1,20.1
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2020,151.24,88796.0,4.5,24.9
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2021,162.02,90711.0,4.2,14.0
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2022,155.8,95426.0,5.0,19.8
+AB,Alberta,PS-HLTH,Health care and social assistance (public),Health & Social,2023,159.81,103235.0,4.9,26.8
+AB,Alberta,PS-EDU,Educational services (public),Education,2010,84.71,75546.0,6.7,13.7
+AB,Alberta,PS-EDU,Educational services (public),Education,2011,86.39,77401.0,8.3,21.5
+AB,Alberta,PS-EDU,Educational services (public),Education,2012,86.45,78118.0,5.8,24.6
+AB,Alberta,PS-EDU,Educational services (public),Education,2013,89.3,83689.0,7.6,24.7
+AB,Alberta,PS-EDU,Educational services (public),Education,2014,87.31,82382.0,6.5,25.9
+AB,Alberta,PS-EDU,Educational services (public),Education,2015,94.61,83508.0,5.4,18.8
+AB,Alberta,PS-EDU,Educational services (public),Education,2016,92.81,82391.0,5.8,16.0
+AB,Alberta,PS-EDU,Educational services (public),Education,2017,92.52,86218.0,7.6,13.7
+AB,Alberta,PS-EDU,Educational services (public),Education,2018,94.07,90371.0,4.2,25.2
+AB,Alberta,PS-EDU,Educational services (public),Education,2019,95.75,92976.0,8.1,14.6
+AB,Alberta,PS-EDU,Educational services (public),Education,2020,90.2,95621.0,4.1,12.3
+AB,Alberta,PS-EDU,Educational services (public),Education,2021,101.73,99092.0,3.8,21.5
+AB,Alberta,PS-EDU,Educational services (public),Education,2022,103.17,101337.0,5.1,20.1
+AB,Alberta,PS-EDU,Educational services (public),Education,2023,103.15,101150.0,3.7,14.9
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2010,18.76,93526.0,6.4,18.7
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2011,17.85,87190.0,7.7,12.8
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2012,18.24,87616.0,7.7,26.4
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2013,17.86,93426.0,7.4,22.3
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2014,18.14,96834.0,6.2,20.2
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2015,18.67,91898.0,5.4,22.2
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2016,18.41,100914.0,5.9,18.7
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2017,18.86,99791.0,5.3,17.2
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2018,18.42,103833.0,5.0,27.2
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2019,18.65,115611.0,5.1,20.6
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2020,18.85,114131.0,7.5,20.5
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2021,18.81,113048.0,7.2,15.2
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2022,18.88,117673.0,6.6,13.5
+AB,Alberta,PS-UTIL,Utilities (public),Utilities,2023,19.23,123968.0,8.2,14.2
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2010,11.79,68912.0,6.5,24.5
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2011,11.97,69568.0,4.8,21.4
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2012,12.07,74232.0,6.3,21.2
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2013,11.87,76071.0,7.3,24.8
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2014,12.69,72484.0,8.2,13.9
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2015,12.19,82705.0,6.8,18.7
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2016,12.48,83160.0,5.2,26.4
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2017,12.73,83883.0,5.3,17.0
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2018,12.76,86269.0,8.2,19.0
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2019,12.87,91306.0,6.3,27.0
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2020,12.26,91876.0,5.4,27.8
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2021,13.53,94166.0,4.1,25.6
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2022,13.16,88484.0,6.4,23.0
+AB,Alberta,PS-TRANS,Transportation and warehousing (public),Transportation,2023,13.33,100287.0,7.6,16.7
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2010,9.76,81999.0,5.0,26.7
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2011,10.1,82451.0,8.5,26.1
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2012,10.05,89469.0,4.0,28.0
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2013,10.08,90834.0,4.0,26.4
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2014,10.32,90760.0,4.2,24.4
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2015,10.43,93916.0,6.8,12.6
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2016,10.35,99838.0,6.5,24.8
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2017,10.2,92859.0,3.8,24.8
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2018,10.45,102953.0,7.0,25.4
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2019,10.54,109164.0,6.7,25.6
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2020,10.63,102751.0,4.5,16.3
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2021,10.92,115905.0,6.6,12.9
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2022,10.58,114579.0,7.9,23.4
+AB,Alberta,PS-DEF,Defence and security services,Public Administration,2023,10.96,113693.0,4.4,27.7
+BC,British Columbia,PS-FED,Federal government,Public Administration,2010,41.59,93181.0,6.7,21.2
+BC,British Columbia,PS-FED,Federal government,Public Administration,2011,42.44,98036.0,5.0,21.2
+BC,British Columbia,PS-FED,Federal government,Public Administration,2012,43.1,95696.0,8.2,14.4
+BC,British Columbia,PS-FED,Federal government,Public Administration,2013,42.55,100111.0,5.9,13.9
+BC,British Columbia,PS-FED,Federal government,Public Administration,2014,42.89,102039.0,5.0,18.8
+BC,British Columbia,PS-FED,Federal government,Public Administration,2015,43.28,104009.0,5.6,18.5
+BC,British Columbia,PS-FED,Federal government,Public Administration,2016,42.24,100057.0,5.1,12.6
+BC,British Columbia,PS-FED,Federal government,Public Administration,2017,43.3,115715.0,4.6,21.2
+BC,British Columbia,PS-FED,Federal government,Public Administration,2018,43.94,110724.0,6.7,22.4
+BC,British Columbia,PS-FED,Federal government,Public Administration,2019,44.34,113726.0,6.2,18.9
+BC,British Columbia,PS-FED,Federal government,Public Administration,2020,45.04,126945.0,6.1,23.8
+BC,British Columbia,PS-FED,Federal government,Public Administration,2021,44.87,122815.0,6.0,20.3
+BC,British Columbia,PS-FED,Federal government,Public Administration,2022,44.07,125327.0,7.7,19.9
+BC,British Columbia,PS-FED,Federal government,Public Administration,2023,45.23,129355.0,7.7,12.9
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2010,129.44,79062.0,4.4,17.0
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2011,127.69,79145.0,7.6,25.7
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2012,135.33,84150.0,6.5,13.9
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2013,127.98,82628.0,8.5,24.4
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2014,134.14,87299.0,7.0,18.2
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2015,136.84,88022.0,4.5,20.4
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2016,139.38,88588.0,7.7,27.8
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2017,137.35,90248.0,8.5,14.3
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2018,143.74,93774.0,3.9,24.1
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2019,142.73,101984.0,4.3,14.9
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2020,138.33,101202.0,4.7,16.7
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2021,145.32,105867.0,6.0,13.3
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2022,142.78,102301.0,6.7,22.4
+BC,British Columbia,PS-PROV,Provincial and territorial government,Public Administration,2023,147.39,107010.0,3.8,17.9
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2010,80.85,69352.0,7.7,19.7
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2011,81.32,73955.0,6.0,26.6
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2012,81.01,69230.0,5.2,20.0
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2013,82.28,71276.0,5.5,26.7
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2014,83.97,73335.0,5.2,15.1
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2015,84.71,75429.0,5.7,16.9
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2016,84.07,78698.0,4.9,23.2
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2017,87.21,77303.0,6.6,19.6
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2018,87.68,83755.0,7.1,27.4
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2019,88.67,82191.0,4.1,23.7
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2020,84.04,84859.0,6.8,27.5
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2021,90.46,89888.0,7.2,24.0
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2022,91.72,86921.0,3.7,24.4
+BC,British Columbia,PS-LOCAL,Local government,Public Administration,2023,92.69,96024.0,5.8,27.6
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2010,161.24,70753.0,3.9,20.9
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2011,162.43,74998.0,7.6,12.6
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2012,163.85,76866.0,4.0,22.8
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2013,168.62,78574.0,7.8,23.8
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2014,178.5,80051.0,4.7,22.0
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2015,179.83,81540.0,6.1,22.8
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2016,186.86,82162.0,8.0,22.7
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2017,187.22,79390.0,5.2,25.7
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2018,193.76,82628.0,5.5,16.4
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2019,199.25,86915.0,3.9,17.5
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2020,208.41,94099.0,8.5,16.7
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2021,221.47,94068.0,6.4,28.0
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2022,211.08,91804.0,5.5,26.6
+BC,British Columbia,PS-HLTH,Health care and social assistance (public),Health & Social,2023,226.68,98734.0,5.3,13.1
+BC,British Columbia,PS-EDU,Educational services (public),Education,2010,116.01,75719.0,5.8,22.2
+BC,British Columbia,PS-EDU,Educational services (public),Education,2011,118.85,76128.0,8.3,24.0
+BC,British Columbia,PS-EDU,Educational services (public),Education,2012,116.87,77988.0,8.0,15.8
+BC,British Columbia,PS-EDU,Educational services (public),Education,2013,117.34,81935.0,6.1,23.9
+BC,British Columbia,PS-EDU,Educational services (public),Education,2014,123.49,83462.0,5.0,15.9
+BC,British Columbia,PS-EDU,Educational services (public),Education,2015,125.44,85745.0,7.9,16.5
+BC,British Columbia,PS-EDU,Educational services (public),Education,2016,126.54,87989.0,7.4,19.0
+BC,British Columbia,PS-EDU,Educational services (public),Education,2017,128.83,92499.0,6.9,25.0
+BC,British Columbia,PS-EDU,Educational services (public),Education,2018,128.57,90187.0,4.4,21.0
+BC,British Columbia,PS-EDU,Educational services (public),Education,2019,134.45,92375.0,8.3,20.2
+BC,British Columbia,PS-EDU,Educational services (public),Education,2020,122.29,98748.0,8.3,13.6
+BC,British Columbia,PS-EDU,Educational services (public),Education,2021,136.58,91556.0,3.8,19.3
+BC,British Columbia,PS-EDU,Educational services (public),Education,2022,137.08,104234.0,3.8,13.8
+BC,British Columbia,PS-EDU,Educational services (public),Education,2023,139.44,106642.0,7.0,15.3
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2010,22.18,87415.0,5.6,12.0
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2011,22.3,87399.0,3.5,20.1
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2012,21.73,88118.0,5.7,24.5
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2013,21.86,94493.0,5.1,15.9
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2014,21.77,94446.0,4.6,17.3
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2015,22.59,96158.0,5.8,23.4
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2016,22.42,103733.0,4.2,26.7
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2017,22.52,107045.0,3.7,13.8
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2018,21.77,110442.0,6.3,21.4
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2019,21.97,110226.0,7.8,21.9
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2020,22.62,111391.0,7.8,16.1
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2021,22.86,111948.0,6.5,27.8
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2022,23.19,115081.0,5.1,24.8
+BC,British Columbia,PS-UTIL,Utilities (public),Utilities,2023,23.03,125857.0,5.6,17.1
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2010,18.17,70716.0,5.2,12.3
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2011,17.99,68995.0,7.0,23.8
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2012,18.66,74107.0,6.5,14.0
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2013,18.49,72909.0,4.4,20.1
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2014,18.22,77148.0,3.6,27.9
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2015,18.98,79226.0,8.0,26.1
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2016,18.82,78542.0,4.9,12.8
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2017,18.68,84484.0,6.8,25.4
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2018,19.15,87836.0,4.7,26.0
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2019,19.35,85204.0,6.3,18.3
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2020,18.43,93066.0,6.3,24.1
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2021,19.68,90967.0,6.1,12.2
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2022,19.63,94856.0,5.5,13.5
+BC,British Columbia,PS-TRANS,Transportation and warehousing (public),Transportation,2023,20.06,95332.0,6.9,14.4
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2010,14.74,82787.0,4.5,25.7
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2011,15.16,83098.0,5.8,23.7
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2012,15.19,88334.0,6.1,23.9
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2013,14.66,91533.0,6.3,13.7
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2014,15.28,90626.0,7.5,13.6
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2015,15.79,100277.0,3.6,27.7
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2016,15.56,102539.0,7.9,18.3
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2017,15.73,109372.0,6.4,18.5
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2018,15.96,101235.0,5.8,15.1
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2019,15.84,105781.0,4.2,14.6
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2020,16.19,101279.0,8.3,15.9
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2021,15.83,110022.0,7.9,16.4
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2022,16.32,108422.0,6.1,19.5
+BC,British Columbia,PS-DEF,Defence and security services,Public Administration,2023,16.2,116764.0,5.9,27.3
+MB,Manitoba,PS-FED,Federal government,Public Administration,2010,14.01,86778.0,4.1,16.0
+MB,Manitoba,PS-FED,Federal government,Public Administration,2011,14.02,94007.0,7.9,26.4
+MB,Manitoba,PS-FED,Federal government,Public Administration,2012,14.34,93436.0,8.3,13.1
+MB,Manitoba,PS-FED,Federal government,Public Administration,2013,14.27,102774.0,6.3,13.6
+MB,Manitoba,PS-FED,Federal government,Public Administration,2014,13.92,99013.0,6.2,14.6
+MB,Manitoba,PS-FED,Federal government,Public Administration,2015,14.36,103116.0,7.8,21.3
+MB,Manitoba,PS-FED,Federal government,Public Administration,2016,14.24,108225.0,5.4,18.5
+MB,Manitoba,PS-FED,Federal government,Public Administration,2017,14.52,108875.0,4.5,27.1
+MB,Manitoba,PS-FED,Federal government,Public Administration,2018,15.02,111335.0,4.0,16.2
+MB,Manitoba,PS-FED,Federal government,Public Administration,2019,14.41,112304.0,5.6,19.2
+MB,Manitoba,PS-FED,Federal government,Public Administration,2020,14.87,121256.0,7.8,26.0
+MB,Manitoba,PS-FED,Federal government,Public Administration,2021,14.72,122629.0,4.7,15.9
+MB,Manitoba,PS-FED,Federal government,Public Administration,2022,14.79,120512.0,7.9,24.4
+MB,Manitoba,PS-FED,Federal government,Public Administration,2023,14.9,133984.0,6.1,20.6
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2010,54.81,78177.0,4.1,27.2
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2011,56.52,83901.0,4.3,20.9
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2012,55.14,81733.0,3.7,13.9
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2013,56.85,86231.0,6.5,19.4
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2014,57.48,85179.0,4.4,27.8
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2015,58.14,78591.0,5.8,14.4
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2016,58.8,87302.0,3.8,17.5
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2017,58.54,98956.0,7.3,24.7
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2018,61.0,95409.0,5.7,22.2
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2019,60.12,93423.0,4.9,13.0
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2020,59.77,99950.0,4.3,22.1
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2021,62.18,104237.0,5.1,23.6
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2022,63.0,103604.0,6.5,19.6
+MB,Manitoba,PS-PROV,Provincial and territorial government,Public Administration,2023,63.03,102586.0,4.4,22.8
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2010,30.17,69289.0,5.7,26.3
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2011,30.22,68690.0,5.0,27.2
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2012,31.55,74260.0,5.5,21.0
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2013,31.45,73495.0,8.0,18.7
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2014,31.44,73417.0,5.5,19.0
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2015,31.85,77721.0,6.8,22.5
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2016,32.59,79755.0,5.1,15.2
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2017,32.37,76817.0,4.7,22.7
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2018,33.03,82171.0,4.2,16.5
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2019,33.57,85728.0,4.5,20.7
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2020,31.04,86094.0,6.6,16.1
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2021,34.55,92020.0,8.4,18.4
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2022,34.36,92784.0,5.5,26.0
+MB,Manitoba,PS-LOCAL,Local government,Public Administration,2023,35.55,92170.0,8.2,25.7
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2010,59.14,74104.0,5.9,22.1
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2011,60.8,71898.0,8.1,26.8
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2012,62.13,76638.0,7.2,24.2
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2013,64.72,83224.0,5.8,15.8
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2014,66.38,80455.0,4.8,21.4
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2015,67.73,85015.0,7.6,25.8
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2016,68.91,83347.0,5.2,24.8
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2017,72.87,85387.0,7.4,13.9
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2018,72.85,83533.0,4.5,14.5
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2019,76.41,97496.0,8.2,27.7
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2020,80.16,91748.0,7.5,16.3
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2021,83.58,93313.0,4.1,25.3
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2022,81.48,96028.0,6.3,20.0
+MB,Manitoba,PS-HLTH,Health care and social assistance (public),Health & Social,2023,83.7,99790.0,8.5,28.0
+MB,Manitoba,PS-EDU,Educational services (public),Education,2010,41.96,78553.0,7.1,27.6
+MB,Manitoba,PS-EDU,Educational services (public),Education,2011,43.42,79481.0,5.6,12.8
+MB,Manitoba,PS-EDU,Educational services (public),Education,2012,43.61,76203.0,7.4,25.3
+MB,Manitoba,PS-EDU,Educational services (public),Education,2013,43.4,83925.0,5.1,24.0
+MB,Manitoba,PS-EDU,Educational services (public),Education,2014,44.4,79924.0,8.0,14.3
+MB,Manitoba,PS-EDU,Educational services (public),Education,2015,45.3,87742.0,4.3,20.5
+MB,Manitoba,PS-EDU,Educational services (public),Education,2016,45.24,88152.0,3.5,19.0
+MB,Manitoba,PS-EDU,Educational services (public),Education,2017,46.45,88659.0,6.8,25.2
+MB,Manitoba,PS-EDU,Educational services (public),Education,2018,47.24,90712.0,7.8,25.2
+MB,Manitoba,PS-EDU,Educational services (public),Education,2019,47.83,91738.0,4.0,18.3
+MB,Manitoba,PS-EDU,Educational services (public),Education,2020,45.79,96184.0,7.3,20.1
+MB,Manitoba,PS-EDU,Educational services (public),Education,2021,50.47,103481.0,5.3,15.5
+MB,Manitoba,PS-EDU,Educational services (public),Education,2022,49.81,100911.0,4.1,13.4
+MB,Manitoba,PS-EDU,Educational services (public),Education,2023,50.68,106549.0,7.6,18.4
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2010,8.12,88720.0,6.8,19.2
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2011,8.04,90204.0,8.4,26.0
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2012,7.88,89162.0,6.8,16.6
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2013,7.89,91966.0,6.3,25.3
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2014,8.32,95936.0,3.7,21.6
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2015,7.89,99215.0,5.6,24.1
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2016,7.95,99720.0,5.4,16.3
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2017,8.22,100460.0,6.3,22.8
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2018,8.27,107185.0,4.6,26.3
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2019,8.26,111921.0,8.0,19.5
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2020,8.29,111780.0,3.8,15.4
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2021,8.59,111210.0,6.9,15.4
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2022,8.16,113655.0,5.6,14.8
+MB,Manitoba,PS-UTIL,Utilities (public),Utilities,2023,8.3,118941.0,5.1,17.8
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2010,6.91,74791.0,4.8,21.8
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2011,7.0,71350.0,8.1,13.6
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2012,6.97,69549.0,6.6,14.0
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2013,7.31,75282.0,7.6,20.4
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2014,7.31,75179.0,5.5,17.2
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2015,7.22,80528.0,7.5,14.7
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2016,7.22,78295.0,6.0,27.5
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2017,7.41,84024.0,6.4,14.0
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2018,7.52,86870.0,4.0,25.9
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2019,7.41,91836.0,5.5,18.9
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2020,7.13,88498.0,8.2,18.3
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2021,7.62,94511.0,6.3,19.4
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2022,7.74,92094.0,5.1,17.5
+MB,Manitoba,PS-TRANS,Transportation and warehousing (public),Transportation,2023,7.76,101532.0,4.3,23.6
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2010,5.01,86005.0,6.3,24.1
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2011,5.02,83940.0,8.1,21.6
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2012,5.11,92322.0,8.2,18.3
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2013,5.12,88767.0,3.5,12.6
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2014,5.25,93732.0,3.6,23.9
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2015,4.98,89296.0,5.8,12.1
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2016,5.2,93538.0,7.9,18.0
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2017,5.28,100358.0,4.3,24.4
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2018,5.08,103137.0,8.3,27.4
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2019,5.22,101262.0,6.5,26.1
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2020,5.2,109509.0,5.9,21.0
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2021,5.19,106921.0,5.6,17.9
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2022,5.34,108971.0,7.5,25.4
+MB,Manitoba,PS-DEF,Defence and security services,Public Administration,2023,5.44,117759.0,7.9,12.4
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2010,10.06,87901.0,7.0,14.6
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2011,9.97,94237.0,6.6,12.6
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2012,10.25,97507.0,4.6,14.2
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2013,10.26,93492.0,4.0,27.2
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2014,10.24,102806.0,8.4,13.3
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2015,10.35,112554.0,6.7,18.9
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2016,10.37,108097.0,6.2,27.9
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2017,10.71,110431.0,7.0,16.8
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2018,10.39,111243.0,8.2,25.4
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2019,10.51,121489.0,4.3,20.6
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2020,10.64,116318.0,5.5,19.1
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2021,10.81,114435.0,5.1,15.0
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2022,10.68,119547.0,4.0,25.9
+NB,New Brunswick,PS-FED,Federal government,Public Administration,2023,10.82,121060.0,8.4,25.5
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2010,34.16,77943.0,7.5,20.7
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2011,35.44,80649.0,8.4,23.3
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2012,34.17,81168.0,5.4,17.8
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2013,36.11,87144.0,3.9,24.5
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2014,35.92,84362.0,6.6,12.6
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2015,37.04,83296.0,8.4,15.5
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2016,37.05,92018.0,8.4,15.8
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2017,37.34,92150.0,3.8,15.1
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2018,38.29,95765.0,6.2,22.0
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2019,38.57,96187.0,6.6,25.8
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2020,38.23,103944.0,4.0,15.6
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2021,40.02,105324.0,5.4,24.3
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2022,39.31,106130.0,5.1,22.5
+NB,New Brunswick,PS-PROV,Provincial and territorial government,Public Administration,2023,39.29,110183.0,4.6,23.6
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2010,18.2,67447.0,4.4,13.7
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2011,17.77,70195.0,6.0,19.0
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2012,17.62,68769.0,5.9,18.7
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2013,18.76,70173.0,4.6,22.2
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2014,18.96,80296.0,5.8,26.3
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2015,18.94,76184.0,7.6,22.4
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2016,19.22,82330.0,6.7,25.7
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2017,19.59,85160.0,6.8,22.7
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2018,19.59,80729.0,5.6,25.0
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2019,20.05,81645.0,5.8,15.4
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2020,18.73,87332.0,4.5,22.0
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2021,20.03,88711.0,4.9,13.8
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2022,20.32,90381.0,4.5,16.7
+NB,New Brunswick,PS-LOCAL,Local government,Public Administration,2023,21.2,94061.0,7.3,23.3
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2010,37.54,73897.0,5.9,14.4
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2011,39.05,72436.0,4.1,20.8
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2012,39.28,74843.0,5.9,24.5
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2013,40.22,79192.0,5.7,25.1
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2014,41.55,82634.0,4.4,19.5
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2015,43.32,76312.0,7.3,17.0
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2016,44.16,83668.0,5.7,16.8
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2017,43.82,81266.0,7.3,26.9
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2018,47.21,86896.0,7.8,28.0
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2019,45.5,89287.0,8.0,24.7
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2020,51.38,95480.0,3.6,19.6
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2021,53.31,96044.0,6.3,20.8
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2022,50.21,102667.0,4.6,24.7
+NB,New Brunswick,PS-HLTH,Health care and social assistance (public),Health & Social,2023,51.06,96483.0,7.9,26.2
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2010,28.35,75533.0,4.8,21.7
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2011,28.32,72768.0,6.3,16.7
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2012,29.02,75092.0,3.8,27.2
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2013,29.12,77433.0,6.9,15.1
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2014,30.06,84795.0,4.8,26.6
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2015,30.23,82777.0,7.6,15.8
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2016,30.32,83941.0,4.8,18.9
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2017,30.34,89219.0,7.4,24.3
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2018,31.54,87395.0,4.6,12.1
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2019,32.51,87443.0,3.7,15.3
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2020,29.82,97591.0,3.9,18.3
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2021,32.84,91486.0,4.4,15.1
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2022,33.25,96671.0,7.8,22.3
+NB,New Brunswick,PS-EDU,Educational services (public),Education,2023,33.61,104561.0,5.6,18.5
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2010,5.02,92165.0,7.1,24.1
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2011,5.1,93622.0,4.5,15.0
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2012,5.13,93864.0,7.5,26.5
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2013,5.02,95586.0,4.9,16.1
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2014,5.07,95160.0,5.5,15.6
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2015,4.94,100532.0,3.7,14.6
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2016,5.09,104386.0,4.6,26.7
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2017,5.19,97248.0,4.6,12.8
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2018,5.2,103296.0,6.6,24.2
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2019,5.14,110833.0,8.2,23.7
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2020,5.18,112675.0,6.1,23.9
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2021,5.26,107101.0,4.1,15.8
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2022,5.19,117927.0,6.4,18.3
+NB,New Brunswick,PS-UTIL,Utilities (public),Utilities,2023,5.14,119465.0,4.7,23.8
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2010,3.98,69503.0,4.4,24.7
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2011,3.93,73368.0,8.1,27.7
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2012,4.0,73317.0,5.9,27.8
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2013,4.05,75889.0,7.9,16.5
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2014,4.09,77060.0,8.4,26.1
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2015,4.19,78658.0,5.2,21.7
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2016,4.22,79410.0,3.6,15.5
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2017,4.16,81865.0,6.0,12.9
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2018,4.3,83911.0,3.7,18.3
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2019,4.35,86018.0,7.2,16.1
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2020,3.98,88176.0,4.6,20.5
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2021,4.42,98389.0,4.7,12.4
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2022,4.33,92749.0,6.7,23.9
+NB,New Brunswick,PS-TRANS,Transportation and warehousing (public),Transportation,2023,4.45,102004.0,5.7,22.2
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2010,4.06,83587.0,7.6,17.6
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2011,4.06,85808.0,8.4,26.4
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2012,4.01,86853.0,4.3,15.4
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2013,4.14,86666.0,3.9,27.8
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2014,4.17,92992.0,7.6,21.3
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2015,4.13,95145.0,7.9,22.2
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2016,4.13,93200.0,5.7,17.5
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2017,4.09,99282.0,7.5,16.2
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2018,4.17,106882.0,7.7,17.3
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2019,4.26,102467.0,3.9,24.2
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2020,4.26,110407.0,6.9,26.6
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2021,4.27,108345.0,4.9,20.9
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2022,4.41,120656.0,6.6,14.2
+NB,New Brunswick,PS-DEF,Defence and security services,Public Administration,2023,4.25,113094.0,6.9,13.2
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2010,7.87,91602.0,3.9,15.6
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2011,7.93,102248.0,4.7,25.3
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2012,8.03,96866.0,5.9,20.0
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2013,8.26,99956.0,6.0,20.5
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2014,8.02,106006.0,3.9,20.3
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2015,7.9,101019.0,6.0,19.5
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2016,8.38,101596.0,4.4,15.5
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2017,8.08,109333.0,5.7,24.3
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2018,8.09,110998.0,6.3,14.5
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2019,8.3,113368.0,6.6,17.2
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2020,8.54,116320.0,7.3,15.7
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2021,8.6,120710.0,7.3,25.6
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2022,8.24,116403.0,4.9,16.0
+NL,Newfoundland and Labrador,PS-FED,Federal government,Public Administration,2023,8.56,125065.0,8.5,27.8
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2010,30.22,77390.0,7.8,26.9
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2011,30.86,81496.0,7.7,16.9
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2012,31.0,85781.0,8.4,26.5
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2013,31.26,84142.0,5.1,20.8
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2014,31.49,86325.0,6.7,18.5
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2015,32.23,85865.0,5.2,14.0
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2016,32.27,86393.0,5.7,15.6
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2017,32.18,89607.0,3.6,17.1
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2018,32.17,95695.0,4.9,13.0
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2019,33.04,95389.0,3.6,25.6
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2020,32.34,95662.0,5.7,19.1
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2021,34.51,105487.0,8.0,12.2
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2022,33.7,107037.0,6.2,14.4
+NL,Newfoundland and Labrador,PS-PROV,Provincial and territorial government,Public Administration,2023,34.59,105712.0,7.1,21.6
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2010,14.76,64270.0,5.0,19.6
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2011,15.5,66300.0,3.7,17.6
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2012,15.26,71660.0,5.7,22.3
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2013,15.3,73667.0,7.6,23.4
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2014,15.97,73296.0,6.5,15.9
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2015,15.86,75593.0,5.8,18.6
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2016,16.0,76314.0,8.1,15.2
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2017,16.45,80515.0,8.1,27.2
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2018,16.51,83218.0,8.4,26.5
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2019,16.5,86222.0,3.9,25.6
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2020,16.36,79087.0,5.6,21.1
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2021,17.19,85297.0,3.9,23.7
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2022,16.81,94550.0,6.0,17.0
+NL,Newfoundland and Labrador,PS-LOCAL,Local government,Public Administration,2023,17.36,90878.0,5.3,14.8
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2010,31.17,71128.0,8.2,23.7
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2011,32.14,77352.0,5.4,25.6
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2012,33.28,73826.0,8.1,16.1
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2013,33.83,72464.0,4.3,13.4
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2014,34.92,77307.0,3.9,19.6
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2015,36.24,82061.0,5.2,25.5
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2016,37.23,80932.0,5.7,27.2
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2017,37.87,84081.0,7.9,19.8
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2018,38.83,87104.0,6.9,12.8
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2019,40.11,89679.0,5.7,18.6
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2020,42.46,91318.0,3.7,21.8
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2021,43.66,96652.0,4.0,12.2
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2022,44.05,98252.0,5.5,25.0
+NL,Newfoundland and Labrador,PS-HLTH,Health care and social assistance (public),Health & Social,2023,44.13,98502.0,6.5,12.3
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2010,23.07,73274.0,5.6,13.6
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2011,23.48,78133.0,3.6,21.6
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2012,23.73,79724.0,7.4,22.1
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2013,23.86,86132.0,3.7,19.1
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2014,24.57,83411.0,5.2,27.8
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2015,24.74,82028.0,7.7,17.2
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2016,24.67,91614.0,5.9,14.1
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2017,25.59,89076.0,4.0,18.8
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2018,26.09,91420.0,8.4,16.1
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2019,26.27,89918.0,5.7,16.5
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2020,23.52,96598.0,6.2,27.6
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2021,27.43,100353.0,3.7,18.3
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2022,27.8,99467.0,4.4,22.8
+NL,Newfoundland and Labrador,PS-EDU,Educational services (public),Education,2023,28.04,106250.0,5.2,23.5
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2010,3.95,84359.0,7.8,21.2
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2011,4.04,90477.0,5.2,12.6
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2012,3.95,95670.0,4.7,24.0
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2013,4.04,96424.0,8.2,21.7
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2014,4.01,93951.0,8.5,17.5
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2015,4.08,100698.0,6.2,14.8
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2016,4.13,101954.0,8.1,16.2
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2017,4.06,100189.0,4.7,16.4
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2018,4.1,103083.0,5.4,18.2
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2019,3.98,106883.0,3.9,12.4
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2020,4.01,113183.0,8.5,26.9
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2021,4.17,113843.0,5.1,24.4
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2022,4.16,120585.0,8.0,18.9
+NL,Newfoundland and Labrador,PS-UTIL,Utilities (public),Utilities,2023,4.16,124165.0,5.0,26.9
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2010,2.92,73241.0,7.4,13.5
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2011,2.99,73411.0,7.4,24.8
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2012,3.11,71233.0,4.0,16.4
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2013,3.09,76505.0,5.7,16.2
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2014,3.12,76666.0,7.9,16.3
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2015,3.13,81034.0,5.1,20.0
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2016,3.11,81343.0,6.0,14.4
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2017,3.28,81901.0,5.6,25.2
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2018,3.2,91270.0,7.4,27.5
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2019,3.18,86498.0,6.1,14.7
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2020,3.07,92991.0,4.8,26.9
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2021,3.47,92932.0,7.1,12.9
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2022,3.25,96787.0,3.8,20.2
+NL,Newfoundland and Labrador,PS-TRANS,Transportation and warehousing (public),Transportation,2023,3.32,98613.0,4.1,27.0
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2010,3.01,85514.0,5.1,21.4
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2011,3.05,84179.0,4.3,13.7
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2012,3.1,89930.0,8.1,13.4
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2013,3.18,85820.0,8.2,17.0
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2014,3.03,89723.0,5.6,15.0
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2015,3.11,95186.0,7.0,13.1
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2016,3.14,96323.0,5.2,22.5
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2017,3.04,96847.0,7.2,26.0
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2018,3.14,100908.0,5.3,20.6
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2019,3.2,101974.0,5.3,16.1
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2020,3.23,101539.0,4.8,22.0
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2021,3.23,107526.0,6.2,24.3
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2022,3.23,115020.0,8.3,20.4
+NL,Newfoundland and Labrador,PS-DEF,Defence and security services,Public Administration,2023,3.22,117315.0,3.8,18.9
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2010,12.14,94704.0,5.8,13.5
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2011,11.9,94339.0,7.3,20.1
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2012,12.0,92350.0,6.6,21.8
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2013,12.2,96714.0,7.8,12.6
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2014,12.27,103316.0,7.8,22.4
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2015,12.39,100725.0,5.2,23.3
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2016,12.19,103350.0,7.9,24.2
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2017,12.26,108359.0,8.4,23.3
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2018,12.23,115263.0,5.0,12.6
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2019,12.25,112329.0,3.5,23.7
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2020,12.67,117469.0,5.9,19.8
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2021,13.0,116430.0,6.1,18.9
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2022,12.95,125775.0,8.5,13.3
+NS,Nova Scotia,PS-FED,Federal government,Public Administration,2023,12.83,126081.0,5.3,16.6
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2010,38.35,77499.0,6.0,26.7
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2011,38.62,77335.0,5.5,13.3
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2012,38.84,74417.0,4.5,15.2
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2013,38.83,78998.0,6.4,18.0
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2014,40.2,86813.0,5.6,23.0
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2015,40.36,94279.0,6.3,13.1
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2016,40.61,93554.0,7.1,16.6
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2017,41.45,95298.0,7.8,25.4
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2018,40.84,94163.0,3.8,25.7
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2019,39.84,96141.0,5.6,24.7
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2020,41.93,99887.0,8.4,14.4
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2021,43.34,103200.0,5.9,26.2
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2022,43.14,106054.0,4.8,18.7
+NS,Nova Scotia,PS-PROV,Provincial and territorial government,Public Administration,2023,44.7,106652.0,5.8,17.2
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2010,20.34,68024.0,5.3,14.4
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2011,19.57,72774.0,4.2,23.1
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2012,20.21,68115.0,4.3,12.1
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2013,20.58,73415.0,8.4,12.7
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2014,21.31,76960.0,6.5,24.1
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2015,20.57,76500.0,6.5,27.9
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2016,21.43,77223.0,4.1,20.9
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2017,21.95,82338.0,7.3,26.3
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2018,21.61,77417.0,6.3,16.8
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2019,22.67,88926.0,6.9,27.6
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2020,21.29,88300.0,5.9,13.7
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2021,23.42,88184.0,3.8,26.9
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2022,22.7,90798.0,7.3,13.6
+NS,Nova Scotia,PS-LOCAL,Local government,Public Administration,2023,23.23,86879.0,3.8,23.1
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2010,42.03,71813.0,7.6,23.5
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2011,42.06,72655.0,7.0,27.3
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2012,43.06,77162.0,5.7,24.1
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2013,43.9,79178.0,4.5,20.6
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2014,45.74,76709.0,3.7,18.5
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2015,47.06,82900.0,6.8,23.5
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2016,48.91,81751.0,6.6,20.6
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2017,49.28,81355.0,4.9,20.4
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2018,49.35,86315.0,4.0,21.5
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2019,51.11,86030.0,7.6,21.5
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2020,55.31,90418.0,5.7,25.8
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2021,56.88,93675.0,5.3,12.8
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2022,56.57,100126.0,5.4,27.1
+NS,Nova Scotia,PS-HLTH,Health care and social assistance (public),Health & Social,2023,57.88,104678.0,4.0,17.4
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2010,29.54,75231.0,7.4,24.8
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2011,30.0,77512.0,3.8,26.8
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2012,30.94,80147.0,6.3,15.4
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2013,31.76,87075.0,3.7,22.9
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2014,32.21,84820.0,4.9,12.9
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2015,32.58,82749.0,6.2,22.3
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2016,33.29,85399.0,4.1,13.5
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2017,32.67,85639.0,4.2,15.6
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2018,33.44,89258.0,4.3,21.0
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2019,34.64,93710.0,8.1,14.4
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2020,32.2,97689.0,7.6,22.1
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2021,34.97,99032.0,7.0,12.3
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2022,36.85,98200.0,7.4,18.0
+NS,Nova Scotia,PS-EDU,Educational services (public),Education,2023,36.35,103034.0,6.0,19.0
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2010,6.12,87994.0,8.3,14.8
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2011,6.09,88138.0,6.2,20.0
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2012,6.03,86374.0,4.9,23.1
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2013,6.1,95474.0,5.8,12.5
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2014,6.18,99815.0,7.2,20.3
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2015,6.17,98647.0,3.7,13.6
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2016,6.13,104517.0,3.6,20.9
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2017,6.13,109111.0,6.2,21.9
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2018,6.13,112952.0,4.1,26.8
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2019,6.14,103964.0,3.9,15.1
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2020,6.11,111392.0,5.2,14.7
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2021,6.37,117342.0,7.3,26.3
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2022,6.2,122063.0,8.1,13.4
+NS,Nova Scotia,PS-UTIL,Utilities (public),Utilities,2023,6.3,123606.0,8.3,18.6
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2010,4.98,71654.0,7.3,12.5
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2011,5.02,76099.0,4.7,22.7
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2012,4.95,73305.0,7.6,19.9
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2013,5.15,74523.0,6.0,15.2
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2014,5.27,80721.0,8.0,26.0
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2015,5.31,83196.0,8.2,21.1
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2016,5.26,82249.0,5.2,16.6
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2017,5.47,84805.0,6.0,26.2
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2018,5.32,86264.0,5.6,19.4
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2019,5.47,91020.0,4.5,23.5
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2020,5.08,90519.0,7.8,16.7
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2021,5.57,95732.0,7.5,22.6
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2022,5.43,100239.0,5.6,25.0
+NS,Nova Scotia,PS-TRANS,Transportation and warehousing (public),Transportation,2023,5.41,94114.0,8.1,18.3
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2010,7.77,86616.0,4.6,25.5
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2011,8.04,86629.0,4.7,19.9
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2012,7.98,87732.0,3.9,21.2
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2013,7.94,92694.0,5.7,18.4
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2014,7.97,90832.0,6.0,19.6
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2015,8.15,99764.0,5.2,24.8
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2016,8.48,98032.0,6.4,16.6
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2017,8.51,104242.0,6.9,16.1
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2018,8.4,99318.0,5.4,26.0
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2019,8.59,108704.0,3.7,18.3
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2020,8.66,105639.0,6.2,18.2
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2021,8.51,107052.0,5.8,26.3
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2022,8.81,111230.0,6.7,27.6
+NS,Nova Scotia,PS-DEF,Defence and security services,Public Administration,2023,8.51,109202.0,7.8,15.6
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2010,3.0,90383.0,3.6,20.9
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2011,3.01,95573.0,5.3,18.6
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2012,3.01,92514.0,7.4,14.2
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2013,3.03,98267.0,3.5,16.8
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2014,3.09,105926.0,4.9,19.4
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2015,3.06,105231.0,7.0,21.2
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2016,3.01,108145.0,4.4,24.2
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2017,3.15,107095.0,4.5,15.0
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2018,3.04,111287.0,4.6,23.6
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2019,3.08,111338.0,7.9,24.8
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2020,3.28,121140.0,6.9,20.4
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2021,3.22,117590.0,4.0,17.1
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2022,3.22,128133.0,5.7,22.8
+NT,Northwest Territories,PS-FED,Federal government,Public Administration,2023,3.22,115936.0,4.3,24.8
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2010,7.99,79653.0,7.3,17.7
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2011,8.06,80112.0,4.8,14.2
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2012,8.29,79279.0,6.7,17.6
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2013,8.03,84450.0,6.9,20.6
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2014,8.21,85659.0,7.7,13.2
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2015,8.26,84803.0,7.7,21.3
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2016,8.49,89363.0,6.9,24.3
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2017,8.89,96590.0,3.8,21.5
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2018,8.55,89971.0,5.1,23.7
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2019,8.89,96038.0,3.7,26.0
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2020,8.43,101019.0,3.6,20.9
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2021,9.03,105656.0,5.7,26.8
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2022,9.06,107262.0,3.8,27.3
+NT,Northwest Territories,PS-PROV,Provincial and territorial government,Public Administration,2023,8.88,105803.0,5.8,15.5
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2010,3.96,64284.0,4.6,19.2
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2011,4.09,71724.0,6.9,22.3
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2012,4.09,70526.0,5.4,12.7
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2013,4.12,74251.0,5.7,15.9
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2014,4.15,76188.0,4.7,13.0
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2015,4.25,76961.0,5.4,18.9
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2016,4.27,82360.0,7.3,27.0
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2017,4.31,83499.0,7.2,19.3
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2018,4.44,82211.0,5.1,13.7
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2019,4.44,87393.0,5.6,20.9
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2020,4.22,87330.0,6.6,19.3
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2021,4.63,85539.0,4.6,16.4
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2022,4.59,89988.0,3.5,14.6
+NT,Northwest Territories,PS-LOCAL,Local government,Public Administration,2023,4.57,95932.0,5.1,20.8
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2010,5.86,72646.0,8.2,13.7
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2011,6.15,73543.0,8.4,21.9
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2012,6.15,81305.0,3.9,27.6
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2013,6.56,75220.0,5.6,18.1
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2014,6.68,80025.0,8.5,18.1
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2015,6.77,84140.0,3.8,26.8
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2016,6.89,80880.0,4.2,20.5
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2017,7.22,88091.0,4.3,15.9
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2018,7.46,88366.0,7.0,28.0
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2019,7.49,90258.0,6.9,13.0
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2020,7.82,93916.0,6.4,17.8
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2021,8.22,90907.0,4.5,21.0
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2022,8.08,98494.0,5.9,17.1
+NT,Northwest Territories,PS-HLTH,Health care and social assistance (public),Health & Social,2023,8.14,93610.0,3.6,27.8
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2010,3.92,73791.0,4.3,16.5
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2011,4.08,78936.0,7.5,27.3
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2012,4.12,79514.0,7.4,14.4
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2013,4.16,79961.0,5.2,14.5
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2014,4.24,81139.0,8.3,13.6
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2015,4.37,85056.0,6.2,17.1
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2016,4.34,83307.0,4.4,19.5
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2017,4.41,89262.0,8.2,20.1
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2018,4.42,92871.0,7.1,23.5
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2019,4.57,87384.0,4.9,13.6
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2020,4.38,101280.0,4.7,13.0
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2021,4.76,99069.0,6.6,24.7
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2022,4.73,103586.0,6.2,21.0
+NT,Northwest Territories,PS-EDU,Educational services (public),Education,2023,4.76,102422.0,4.6,27.7
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2010,1.02,90789.0,6.5,15.9
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2011,0.98,94047.0,7.4,21.4
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2012,1.03,95964.0,7.3,16.7
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2013,1.01,95412.0,7.0,16.5
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2014,1.02,100543.0,4.0,17.2
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2015,1.01,92049.0,5.9,21.1
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2016,1.03,102401.0,4.8,25.8
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2017,1.0,104518.0,7.4,13.0
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2018,1.02,102073.0,8.4,23.3
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2019,1.06,109793.0,4.4,22.2
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2020,1.02,110674.0,7.3,19.2
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2021,1.03,115030.0,8.1,16.0
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2022,1.04,123837.0,6.7,24.5
+NT,Northwest Territories,PS-UTIL,Utilities (public),Utilities,2023,1.02,119682.0,4.3,15.4
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2010,1.0,72906.0,5.7,15.9
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2011,1.01,76895.0,5.7,18.6
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2012,1.0,78687.0,5.7,12.3
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2013,1.04,76938.0,7.1,25.9
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2014,1.03,76195.0,6.6,21.7
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2015,1.04,80956.0,4.1,22.5
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2016,1.04,81468.0,5.1,15.3
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2017,1.05,85847.0,8.1,26.0
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2018,1.06,80056.0,8.3,19.4
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2019,1.08,85421.0,5.5,16.1
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2020,1.01,91584.0,4.5,27.4
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2021,1.12,91571.0,6.9,17.3
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2022,1.11,97225.0,8.2,16.8
+NT,Northwest Territories,PS-TRANS,Transportation and warehousing (public),Transportation,2023,1.11,94079.0,6.8,19.2
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2010,1.0,81758.0,6.9,16.3
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2011,1.0,87354.0,5.2,17.3
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2012,1.03,90889.0,4.5,20.7
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2013,1.02,89234.0,8.2,18.8
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2014,1.02,90851.0,3.7,23.5
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2015,1.03,102086.0,3.8,24.4
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2016,1.04,98164.0,4.4,27.9
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2017,1.03,102423.0,6.7,23.8
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2018,1.06,106238.0,4.4,12.0
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2019,1.03,100943.0,4.1,15.0
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2020,1.05,108267.0,3.8,26.7
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2021,1.09,106374.0,8.3,14.3
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2022,1.09,117167.0,7.0,13.5
+NT,Northwest Territories,PS-DEF,Defence and security services,Public Administration,2023,1.07,122139.0,6.5,27.8
+NU,Nunavut,PS-FED,Federal government,Public Administration,2010,1.98,97557.0,8.4,22.8
+NU,Nunavut,PS-FED,Federal government,Public Administration,2011,1.99,96510.0,5.3,12.1
+NU,Nunavut,PS-FED,Federal government,Public Administration,2012,2.02,98857.0,4.8,19.9
+NU,Nunavut,PS-FED,Federal government,Public Administration,2013,2.01,99773.0,3.9,23.6
+NU,Nunavut,PS-FED,Federal government,Public Administration,2014,2.06,102426.0,4.9,15.1
+NU,Nunavut,PS-FED,Federal government,Public Administration,2015,2.05,101516.0,7.0,22.4
+NU,Nunavut,PS-FED,Federal government,Public Administration,2016,2.07,108893.0,4.0,14.5
+NU,Nunavut,PS-FED,Federal government,Public Administration,2017,2.09,109219.0,8.1,26.7
+NU,Nunavut,PS-FED,Federal government,Public Administration,2018,2.09,114341.0,5.6,12.1
+NU,Nunavut,PS-FED,Federal government,Public Administration,2019,2.07,113081.0,4.0,17.6
+NU,Nunavut,PS-FED,Federal government,Public Administration,2020,2.18,119667.0,6.5,14.3
+NU,Nunavut,PS-FED,Federal government,Public Administration,2021,2.23,119888.0,4.9,17.3
+NU,Nunavut,PS-FED,Federal government,Public Administration,2022,2.14,126831.0,7.3,23.1
+NU,Nunavut,PS-FED,Federal government,Public Administration,2023,2.14,127852.0,6.9,15.1
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2010,4.99,76577.0,5.7,13.8
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2011,5.03,76455.0,4.3,14.1
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2012,5.14,83313.0,5.3,17.2
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2013,5.18,81790.0,8.1,16.8
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2014,5.11,88846.0,5.2,24.8
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2015,5.26,90306.0,8.4,20.8
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2016,5.32,92158.0,3.7,24.9
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2017,5.24,90737.0,6.3,12.7
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2018,5.3,92238.0,3.9,19.6
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2019,5.36,93256.0,4.4,24.2
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2020,5.26,99500.0,8.3,21.5
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2021,5.62,105489.0,7.0,25.1
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2022,5.73,103938.0,5.1,13.7
+NU,Nunavut,PS-PROV,Provincial and territorial government,Public Administration,2023,5.66,109071.0,4.9,13.5
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2010,1.98,68084.0,6.6,18.7
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2011,1.99,71826.0,5.3,23.5
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2012,2.09,76231.0,5.9,27.5
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2013,2.08,69578.0,5.9,12.4
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2014,2.08,73000.0,4.8,28.0
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2015,2.08,78357.0,3.8,12.4
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2016,2.2,76315.0,8.2,27.0
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2017,2.19,83492.0,5.0,13.0
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2018,2.16,85619.0,3.9,17.0
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2019,2.24,86159.0,7.0,24.8
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2020,2.1,89324.0,5.5,25.6
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2021,2.3,85461.0,8.2,16.4
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2022,2.32,89676.0,5.3,17.6
+NU,Nunavut,PS-LOCAL,Local government,Public Administration,2023,2.32,94041.0,5.0,20.3
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2010,4.1,70941.0,4.3,13.7
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2011,4.1,73107.0,7.5,21.4
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2012,4.18,75242.0,3.7,13.9
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2013,4.23,79772.0,6.0,17.7
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2014,4.39,83632.0,6.9,22.7
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2015,4.61,79652.0,6.4,21.5
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2016,4.71,82481.0,7.0,22.4
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2017,4.77,84315.0,8.0,12.6
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2018,4.92,88889.0,6.0,18.8
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2019,5.01,91402.0,5.8,27.3
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2020,5.4,100706.0,8.1,20.9
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2021,5.62,91611.0,6.2,27.1
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2022,5.43,96326.0,4.2,23.2
+NU,Nunavut,PS-HLTH,Health care and social assistance (public),Health & Social,2023,5.59,98771.0,7.2,26.8
+NU,Nunavut,PS-EDU,Educational services (public),Education,2010,3.03,71386.0,7.0,22.4
+NU,Nunavut,PS-EDU,Educational services (public),Education,2011,3.08,78974.0,6.1,26.5
+NU,Nunavut,PS-EDU,Educational services (public),Education,2012,3.09,77204.0,6.1,16.0
+NU,Nunavut,PS-EDU,Educational services (public),Education,2013,3.14,76198.0,6.8,14.1
+NU,Nunavut,PS-EDU,Educational services (public),Education,2014,3.17,82173.0,5.0,15.7
+NU,Nunavut,PS-EDU,Educational services (public),Education,2015,3.15,83969.0,3.8,25.6
+NU,Nunavut,PS-EDU,Educational services (public),Education,2016,3.32,83146.0,6.8,18.4
+NU,Nunavut,PS-EDU,Educational services (public),Education,2017,3.34,90594.0,3.9,26.1
+NU,Nunavut,PS-EDU,Educational services (public),Education,2018,3.4,93644.0,6.3,20.9
+NU,Nunavut,PS-EDU,Educational services (public),Education,2019,3.29,91918.0,6.3,17.3
+NU,Nunavut,PS-EDU,Educational services (public),Education,2020,3.21,95845.0,6.5,16.2
+NU,Nunavut,PS-EDU,Educational services (public),Education,2021,3.56,99840.0,5.3,26.1
+NU,Nunavut,PS-EDU,Educational services (public),Education,2022,3.57,101784.0,7.3,17.2
+NU,Nunavut,PS-EDU,Educational services (public),Education,2023,3.56,98807.0,6.3,12.0
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2010,0.99,89651.0,7.4,27.0
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2011,1.0,90811.0,7.5,19.2
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2012,1.0,92251.0,4.9,24.0
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2013,1.0,90362.0,5.0,17.0
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2014,0.99,94817.0,5.7,20.8
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2015,1.02,96864.0,5.7,25.2
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2016,1.01,103275.0,6.3,19.1
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2017,1.04,99848.0,6.3,23.2
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2018,1.05,108807.0,6.0,21.4
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2019,1.03,102662.0,6.6,14.1
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2020,1.01,108910.0,7.3,18.3
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2021,1.06,115937.0,6.4,12.0
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2022,1.03,122129.0,6.3,19.9
+NU,Nunavut,PS-UTIL,Utilities (public),Utilities,2023,1.05,122695.0,4.9,27.3
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2010,1.01,66629.0,8.4,26.7
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2011,1.01,68996.0,4.4,20.7
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2012,1.02,72917.0,7.8,13.8
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2013,1.02,75527.0,5.7,13.7
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2014,1.03,76290.0,5.9,12.8
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2015,1.04,75441.0,4.3,23.3
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2016,1.06,84739.0,6.5,14.5
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2017,1.04,82639.0,6.2,26.2
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2018,1.04,81924.0,5.9,19.7
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2019,1.11,90994.0,7.8,25.8
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2020,1.03,85452.0,6.1,16.7
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2021,1.12,88239.0,8.1,22.0
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2022,1.1,97356.0,6.0,26.5
+NU,Nunavut,PS-TRANS,Transportation and warehousing (public),Transportation,2023,1.12,99318.0,7.6,25.8
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2010,0.0,85847.0,5.0,24.2
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2011,0.0,82968.0,5.7,17.2
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2012,0.0,92067.0,4.8,23.9
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2013,0.0,89831.0,7.5,18.4
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2014,0.0,94489.0,7.5,18.2
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2015,0.0,94522.0,5.0,24.9
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2016,0.0,98907.0,3.9,12.7
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2017,0.0,100918.0,5.7,16.6
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2018,0.0,102384.0,4.6,27.0
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2019,0.0,103922.0,4.7,15.2
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2020,0.0,108768.0,5.1,21.8
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2021,0.0,115377.0,7.0,17.8
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2022,0.0,114568.0,8.3,21.9
+NU,Nunavut,PS-DEF,Defence and security services,Public Administration,2023,0.0,118793.0,7.7,22.7
+ON,Ontario,PS-FED,Federal government,Public Administration,2010,110.58,91575.0,6.9,22.3
+ON,Ontario,PS-FED,Federal government,Public Administration,2011,109.47,98842.0,8.3,21.6
+ON,Ontario,PS-FED,Federal government,Public Administration,2012,112.05,94504.0,3.8,25.2
+ON,Ontario,PS-FED,Federal government,Public Administration,2013,108.8,101829.0,6.2,16.4
+ON,Ontario,PS-FED,Federal government,Public Administration,2014,112.91,103321.0,4.4,12.8
+ON,Ontario,PS-FED,Federal government,Public Administration,2015,112.97,100167.0,5.4,16.0
+ON,Ontario,PS-FED,Federal government,Public Administration,2016,116.19,108988.0,4.6,16.9
+ON,Ontario,PS-FED,Federal government,Public Administration,2017,115.36,111740.0,3.9,14.5
+ON,Ontario,PS-FED,Federal government,Public Administration,2018,114.35,110047.0,4.6,26.5
+ON,Ontario,PS-FED,Federal government,Public Administration,2019,115.37,116817.0,4.7,18.7
+ON,Ontario,PS-FED,Federal government,Public Administration,2020,121.5,118045.0,5.4,21.2
+ON,Ontario,PS-FED,Federal government,Public Administration,2021,120.91,117005.0,5.0,17.5
+ON,Ontario,PS-FED,Federal government,Public Administration,2022,115.83,123546.0,5.1,21.1
+ON,Ontario,PS-FED,Federal government,Public Administration,2023,118.16,125390.0,7.2,14.7
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2010,317.26,73847.0,4.4,13.5
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2011,334.92,76617.0,6.6,18.1
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2012,330.38,77898.0,4.0,20.7
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2013,329.5,85623.0,5.0,12.8
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2014,330.68,81312.0,6.4,22.9
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2015,332.79,89172.0,5.2,22.7
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2016,336.49,88059.0,7.8,24.1
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2017,353.49,92846.0,7.8,25.3
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2018,349.79,97108.0,8.2,19.6
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2019,349.31,96910.0,7.8,18.9
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2020,349.96,100558.0,8.3,16.0
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2021,369.5,102065.0,8.2,26.5
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2022,352.59,109380.0,4.3,27.6
+ON,Ontario,PS-PROV,Provincial and territorial government,Public Administration,2023,364.47,112135.0,7.5,19.1
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2010,212.27,69272.0,7.8,20.2
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2011,218.63,67804.0,4.8,26.0
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2012,216.37,70522.0,3.9,20.2
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2013,212.49,73250.0,5.8,17.5
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2014,220.72,76158.0,8.1,14.6
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2015,216.44,73794.0,3.9,16.0
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2016,227.65,77234.0,6.1,17.4
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2017,230.21,81162.0,8.2,27.4
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2018,231.96,79837.0,7.5,19.9
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2019,238.53,86753.0,7.3,27.4
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2020,220.08,90396.0,8.2,15.6
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2021,241.24,86379.0,8.3,14.0
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2022,239.08,89419.0,4.6,17.2
+ON,Ontario,PS-LOCAL,Local government,Public Administration,2023,244.37,93237.0,6.3,22.4
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2010,418.25,73016.0,5.6,16.4
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2011,431.02,72069.0,5.1,14.9
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2012,444.21,76678.0,6.8,22.1
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2013,457.02,79711.0,6.3,14.2
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2014,473.25,80019.0,5.7,18.2
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2015,476.95,79663.0,6.9,25.5
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2016,484.33,83676.0,6.2,12.5
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2017,510.81,83857.0,4.9,17.2
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2018,505.91,83229.0,5.9,21.9
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2019,521.64,85422.0,5.0,19.0
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2020,569.62,91386.0,7.5,16.5
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2021,590.4,93826.0,6.8,21.7
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2022,563.63,93137.0,7.0,15.8
+ON,Ontario,PS-HLTH,Health care and social assistance (public),Health & Social,2023,575.12,101514.0,4.9,17.9
+ON,Ontario,PS-EDU,Educational services (public),Education,2010,299.71,77632.0,4.6,24.9
+ON,Ontario,PS-EDU,Educational services (public),Education,2011,308.74,78606.0,3.9,19.5
+ON,Ontario,PS-EDU,Educational services (public),Education,2012,311.02,80088.0,5.2,27.2
+ON,Ontario,PS-EDU,Educational services (public),Education,2013,309.44,81881.0,4.8,21.9
+ON,Ontario,PS-EDU,Educational services (public),Education,2014,320.2,78185.0,4.5,13.8
+ON,Ontario,PS-EDU,Educational services (public),Education,2015,332.03,81761.0,5.6,12.0
+ON,Ontario,PS-EDU,Educational services (public),Education,2016,336.8,85691.0,5.6,23.5
+ON,Ontario,PS-EDU,Educational services (public),Education,2017,331.08,91083.0,5.8,27.6
+ON,Ontario,PS-EDU,Educational services (public),Education,2018,341.09,86831.0,7.7,26.9
+ON,Ontario,PS-EDU,Educational services (public),Education,2019,342.76,92768.0,6.8,20.3
+ON,Ontario,PS-EDU,Educational services (public),Education,2020,321.88,98837.0,6.6,17.0
+ON,Ontario,PS-EDU,Educational services (public),Education,2021,361.3,98115.0,4.5,14.3
+ON,Ontario,PS-EDU,Educational services (public),Education,2022,357.05,99272.0,6.2,18.0
+ON,Ontario,PS-EDU,Educational services (public),Education,2023,361.75,101118.0,7.9,20.8
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2010,56.29,87207.0,5.9,25.8
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2011,55.11,89630.0,5.0,20.3
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2012,56.04,93096.0,5.7,15.5
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2013,54.69,100860.0,8.1,15.3
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2014,56.86,97957.0,7.6,14.2
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2015,55.56,99057.0,6.4,20.2
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2016,56.25,107718.0,4.8,17.5
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2017,56.09,113201.0,4.0,13.2
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2018,56.83,104833.0,6.5,14.8
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2019,56.58,103727.0,4.0,26.0
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2020,55.76,113982.0,8.3,27.1
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2021,56.4,121154.0,6.5,27.8
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2022,57.37,124259.0,5.5,17.0
+ON,Ontario,PS-UTIL,Utilities (public),Utilities,2023,57.2,117574.0,4.9,17.5
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2010,49.04,70844.0,5.7,14.3
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2011,49.42,72388.0,6.1,15.2
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2012,51.05,76270.0,3.8,14.2
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2013,50.46,74447.0,3.9,19.1
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2014,50.68,73990.0,5.4,13.1
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2015,52.52,75401.0,8.5,27.9
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2016,51.95,81960.0,3.9,17.2
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2017,51.66,82631.0,4.0,19.3
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2018,52.02,82607.0,7.1,17.7
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2019,54.81,93774.0,6.2,14.9
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2020,49.08,88950.0,4.3,21.8
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2021,55.85,92935.0,8.1,12.7
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2022,54.11,96023.0,4.8,19.2
+ON,Ontario,PS-TRANS,Transportation and warehousing (public),Transportation,2023,56.11,92380.0,4.6,15.1
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2010,29.52,85903.0,7.5,27.2
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2011,30.36,86639.0,5.9,26.5
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2012,30.39,92172.0,6.7,20.7
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2013,30.16,92367.0,7.7,18.1
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2014,31.33,87240.0,7.3,14.2
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2015,30.57,101835.0,4.8,15.9
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2016,31.11,91561.0,8.2,22.7
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2017,30.99,97367.0,7.6,25.6
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2018,31.71,100948.0,5.5,24.8
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2019,31.19,101618.0,4.3,21.4
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2020,31.42,108235.0,4.9,23.1
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2021,32.04,111194.0,5.5,22.4
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2022,32.59,115598.0,3.6,18.5
+ON,Ontario,PS-DEF,Defence and security services,Public Administration,2023,32.25,111044.0,4.3,19.2
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2010,3.93,93214.0,7.1,17.0
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2011,4.04,91374.0,6.2,21.9
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2012,4.08,94689.0,4.0,24.2
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2013,4.02,95349.0,4.6,17.2
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2014,4.1,108371.0,6.9,26.5
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2015,4.08,105556.0,6.3,16.9
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2016,4.14,107513.0,7.1,23.6
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2017,4.15,108988.0,5.1,25.2
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2018,4.14,112111.0,7.3,16.3
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2019,4.1,109579.0,5.1,19.7
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2020,4.25,120010.0,7.9,18.2
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2021,4.19,119040.0,6.1,19.7
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2022,4.2,124330.0,7.2,22.0
+PE,Prince Edward Island,PS-FED,Federal government,Public Administration,2023,4.22,126162.0,6.0,12.3
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2010,11.99,74622.0,7.0,24.7
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2011,12.09,78592.0,3.7,18.1
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2012,12.4,81705.0,3.7,23.0
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2013,12.47,84944.0,4.7,20.6
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2014,12.65,87940.0,6.4,12.1
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2015,12.66,91065.0,5.8,15.3
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2016,12.77,91583.0,7.8,18.3
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2017,12.85,86556.0,3.6,18.5
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2018,12.96,99072.0,8.3,23.3
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2019,12.61,96006.0,7.4,20.9
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2020,13.08,102424.0,6.8,26.4
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2021,13.73,102282.0,7.0,19.7
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2022,13.43,107276.0,4.0,14.1
+PE,Prince Edward Island,PS-PROV,Provincial and territorial government,Public Administration,2023,13.5,103702.0,3.9,23.6
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2010,6.05,69668.0,4.9,20.3
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2011,6.12,70057.0,4.4,13.6
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2012,6.11,73105.0,4.0,21.8
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2013,6.36,73294.0,4.5,13.0
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2014,6.23,76291.0,7.0,17.7
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2015,6.48,79185.0,6.3,15.0
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2016,6.38,80592.0,8.4,23.0
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2017,6.6,80617.0,5.2,14.4
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2018,6.58,80422.0,6.5,14.8
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2019,6.72,84741.0,8.4,12.5
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2020,6.56,87572.0,3.8,14.7
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2021,6.89,98467.0,6.8,24.5
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2022,7.07,86401.0,6.0,23.5
+PE,Prince Edward Island,PS-LOCAL,Local government,Public Administration,2023,6.99,88864.0,3.6,15.1
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2010,12.07,70188.0,4.2,15.0
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2011,12.37,76763.0,3.9,12.5
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2012,12.36,72631.0,4.9,27.3
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2013,12.88,78244.0,7.6,23.0
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2014,13.23,80675.0,7.6,24.7
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2015,13.59,79638.0,7.8,15.4
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2016,14.0,84341.0,7.8,16.6
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2017,14.52,85789.0,5.3,21.8
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2018,14.61,88736.0,4.3,26.6
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2019,14.82,95641.0,6.5,13.3
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2020,16.11,89392.0,6.4,25.0
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2021,16.76,89824.0,6.4,20.5
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2022,15.94,91054.0,7.1,28.0
+PE,Prince Edward Island,PS-HLTH,Health care and social assistance (public),Health & Social,2023,16.89,98487.0,4.1,20.9
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2010,8.13,74227.0,6.6,20.3
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2011,8.19,76568.0,7.6,12.0
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2012,8.41,81656.0,7.4,25.7
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2013,8.32,84699.0,6.3,21.9
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2014,8.34,81074.0,6.3,12.9
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2015,8.87,83154.0,8.1,13.6
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2016,8.84,84469.0,5.9,25.4
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2017,8.96,89698.0,3.6,20.2
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2018,9.1,91466.0,4.1,21.1
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2019,9.03,90718.0,8.2,24.3
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2020,8.54,96627.0,7.7,14.9
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2021,9.82,97616.0,3.8,26.3
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2022,9.3,98475.0,5.1,19.8
+PE,Prince Edward Island,PS-EDU,Educational services (public),Education,2023,9.87,108075.0,6.2,22.6
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2010,1.02,86768.0,5.9,21.4
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2011,1.0,88037.0,4.9,13.9
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2012,1.0,88929.0,6.5,14.7
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2013,1.04,95886.0,8.0,12.4
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2014,1.01,96033.0,4.6,19.5
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2015,0.98,101947.0,5.0,14.5
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2016,1.04,99867.0,4.5,24.2
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2017,1.03,103218.0,5.3,19.0
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2018,1.04,107460.0,4.3,24.5
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2019,1.02,115431.0,3.6,16.4
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2020,1.04,110206.0,8.1,18.0
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2021,1.04,116363.0,5.4,12.8
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2022,1.0,119509.0,4.8,24.4
+PE,Prince Edward Island,PS-UTIL,Utilities (public),Utilities,2023,1.05,122204.0,3.5,20.2
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2010,1.01,68862.0,6.6,15.7
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2011,1.0,71966.0,4.4,14.2
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2012,1.0,72568.0,5.0,26.4
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2013,1.03,71377.0,6.4,21.1
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2014,1.06,79635.0,5.0,16.8
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2015,1.04,78080.0,7.9,26.6
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2016,1.02,83910.0,5.4,19.8
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2017,1.05,84103.0,7.7,27.6
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2018,1.07,86616.0,6.1,17.3
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2019,1.08,83580.0,3.7,25.2
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2020,1.03,88631.0,5.1,27.5
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2021,1.12,92780.0,4.3,22.5
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2022,1.06,96878.0,8.0,16.5
+PE,Prince Edward Island,PS-TRANS,Transportation and warehousing (public),Transportation,2023,1.11,98627.0,6.0,22.5
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2010,0.98,88464.0,7.6,27.5
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2011,0.98,85758.0,7.5,15.9
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2012,1.04,89080.0,7.4,13.8
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2013,1.03,89426.0,6.1,25.6
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2014,1.0,97163.0,4.9,17.7
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2015,1.01,92406.0,7.8,24.3
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2016,1.04,96057.0,6.6,19.4
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2017,1.04,98455.0,5.6,15.0
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2018,1.05,106245.0,6.4,20.3
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2019,1.05,99562.0,4.1,16.8
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2020,1.08,105101.0,7.3,15.9
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2021,1.1,111245.0,7.4,25.6
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2022,1.09,115564.0,7.1,22.9
+PE,Prince Edward Island,PS-DEF,Defence and security services,Public Administration,2023,1.06,118322.0,7.4,17.1
+QC,Quebec,PS-FED,Federal government,Public Administration,2010,64.82,87876.0,6.0,13.4
+QC,Quebec,PS-FED,Federal government,Public Administration,2011,65.84,95369.0,5.3,12.8
+QC,Quebec,PS-FED,Federal government,Public Administration,2012,65.24,99030.0,6.0,17.7
+QC,Quebec,PS-FED,Federal government,Public Administration,2013,66.31,92659.0,4.8,23.6
+QC,Quebec,PS-FED,Federal government,Public Administration,2014,66.41,98267.0,6.9,12.0
+QC,Quebec,PS-FED,Federal government,Public Administration,2015,68.04,104111.0,7.2,24.3
+QC,Quebec,PS-FED,Federal government,Public Administration,2016,65.62,107992.0,7.0,27.8
+QC,Quebec,PS-FED,Federal government,Public Administration,2017,66.68,108481.0,7.6,14.6
+QC,Quebec,PS-FED,Federal government,Public Administration,2018,68.03,111914.0,3.7,20.9
+QC,Quebec,PS-FED,Federal government,Public Administration,2019,68.99,116752.0,7.9,14.6
+QC,Quebec,PS-FED,Federal government,Public Administration,2020,72.18,114881.0,4.5,25.1
+QC,Quebec,PS-FED,Federal government,Public Administration,2021,71.19,123923.0,3.9,22.8
+QC,Quebec,PS-FED,Federal government,Public Administration,2022,69.28,121812.0,8.4,22.8
+QC,Quebec,PS-FED,Federal government,Public Administration,2023,69.58,126664.0,8.1,22.3
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2010,250.22,76500.0,6.0,23.7
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2011,254.12,79182.0,8.4,19.0
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2012,252.21,79564.0,5.5,22.0
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2013,255.73,78574.0,6.8,23.2
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2014,254.34,88901.0,4.6,13.7
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2015,259.99,92490.0,5.0,22.8
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2016,261.73,92099.0,4.9,14.2
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2017,273.15,90635.0,6.1,15.4
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2018,274.0,94580.0,8.0,13.7
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2019,269.09,98342.0,4.8,16.4
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2020,272.18,96290.0,4.9,22.4
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2021,278.76,106738.0,6.9,14.8
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2022,289.29,100184.0,3.5,19.6
+QC,Quebec,PS-PROV,Provincial and territorial government,Public Administration,2023,280.62,108494.0,8.5,26.7
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2010,132.06,68556.0,5.8,25.5
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2011,132.67,69744.0,4.1,18.7
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2012,135.62,71735.0,4.0,21.2
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2013,133.37,71716.0,8.1,19.3
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2014,139.67,75869.0,5.5,25.0
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2015,135.39,78422.0,5.0,12.6
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2016,139.17,80045.0,4.2,13.8
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2017,141.7,82388.0,7.9,27.1
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2018,143.97,82596.0,7.2,28.0
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2019,141.81,85716.0,5.8,25.7
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2020,139.94,84701.0,4.7,23.6
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2021,151.4,88277.0,6.8,18.4
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2022,152.9,90642.0,7.4,27.6
+QC,Quebec,PS-LOCAL,Local government,Public Administration,2023,155.23,88939.0,5.4,14.1
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2010,303.82,75339.0,5.6,14.7
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2011,310.99,75723.0,8.0,21.1
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2012,320.77,79935.0,6.5,20.1
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2013,322.81,78833.0,6.2,16.3
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2014,325.89,82567.0,5.2,24.9
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2015,339.92,86327.0,5.6,17.1
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2016,345.03,87653.0,4.7,26.5
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2017,371.22,87103.0,3.7,14.1
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2018,365.89,89952.0,4.6,24.5
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2019,371.63,92041.0,3.7,19.1
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2020,389.25,87839.0,4.1,15.1
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2021,419.09,91071.0,5.9,26.8
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2022,400.61,95073.0,8.4,13.0
+QC,Quebec,PS-HLTH,Health care and social assistance (public),Health & Social,2023,419.02,99196.0,6.0,26.8
+QC,Quebec,PS-EDU,Educational services (public),Education,2010,209.81,73279.0,4.9,22.5
+QC,Quebec,PS-EDU,Educational services (public),Education,2011,210.13,79163.0,7.0,22.3
+QC,Quebec,PS-EDU,Educational services (public),Education,2012,216.82,78599.0,5.7,12.1
+QC,Quebec,PS-EDU,Educational services (public),Education,2013,217.55,78477.0,3.9,16.4
+QC,Quebec,PS-EDU,Educational services (public),Education,2014,224.78,81061.0,8.5,26.7
+QC,Quebec,PS-EDU,Educational services (public),Education,2015,230.66,86880.0,7.8,17.1
+QC,Quebec,PS-EDU,Educational services (public),Education,2016,220.8,85813.0,6.0,12.3
+QC,Quebec,PS-EDU,Educational services (public),Education,2017,234.03,92684.0,5.1,14.9
+QC,Quebec,PS-EDU,Educational services (public),Education,2018,233.23,88377.0,7.7,24.1
+QC,Quebec,PS-EDU,Educational services (public),Education,2019,237.87,91919.0,3.7,19.4
+QC,Quebec,PS-EDU,Educational services (public),Education,2020,219.53,91685.0,5.5,21.5
+QC,Quebec,PS-EDU,Educational services (public),Education,2021,256.42,99272.0,6.1,22.9
+QC,Quebec,PS-EDU,Educational services (public),Education,2022,250.62,101959.0,5.6,12.3
+QC,Quebec,PS-EDU,Educational services (public),Education,2023,258.97,103413.0,6.2,20.8
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2010,38.91,88708.0,6.8,23.3
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2011,40.37,89257.0,4.4,18.6
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2012,40.5,90899.0,6.5,16.8
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2013,40.01,99419.0,5.2,25.2
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2014,40.66,97587.0,4.1,14.5
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2015,40.57,98499.0,4.9,18.9
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2016,40.53,98815.0,4.2,22.5
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2017,40.75,103689.0,4.5,23.7
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2018,40.73,107208.0,3.9,27.2
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2019,41.59,109742.0,3.6,16.5
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2020,40.74,112383.0,4.9,24.4
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2021,42.22,111202.0,5.0,15.8
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2022,42.0,119239.0,5.7,15.9
+QC,Quebec,PS-UTIL,Utilities (public),Utilities,2023,42.7,119093.0,6.1,20.9
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2010,34.48,68853.0,5.4,17.8
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2011,35.44,75208.0,6.5,17.4
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2012,35.03,75882.0,4.0,23.1
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2013,35.95,69389.0,4.9,19.1
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2014,36.01,78924.0,5.9,15.5
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2015,36.38,79274.0,7.5,20.0
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2016,36.25,81941.0,7.9,23.4
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2017,36.28,83238.0,4.1,22.9
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2018,36.34,77330.0,5.8,18.2
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2019,38.25,85111.0,7.6,24.0
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2020,35.89,88403.0,5.5,18.2
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2021,39.2,93341.0,7.9,19.6
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2022,38.25,90390.0,5.9,23.5
+QC,Quebec,PS-TRANS,Transportation and warehousing (public),Transportation,2023,38.49,96305.0,6.6,24.6
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2010,14.0,83900.0,4.3,17.8
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2011,14.48,85720.0,4.4,25.7
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2012,14.07,86472.0,8.4,20.5
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2013,14.42,88694.0,7.4,22.5
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2014,14.62,87463.0,7.2,15.8
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2015,14.19,92724.0,4.7,25.7
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2016,14.07,94439.0,7.1,14.5
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2017,14.64,96846.0,4.7,15.8
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2018,14.68,105011.0,5.1,12.5
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2019,14.61,104982.0,3.9,17.1
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2020,15.47,101843.0,5.6,19.4
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2021,14.77,108087.0,8.1,26.6
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2022,14.68,114988.0,4.3,16.9
+QC,Quebec,PS-DEF,Defence and security services,Public Administration,2023,14.93,116095.0,4.4,26.7
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2010,12.39,92264.0,7.8,23.3
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2011,11.82,90908.0,4.6,14.7
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2012,12.29,98335.0,6.6,15.5
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2013,12.08,99882.0,4.3,12.7
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2014,12.32,100488.0,6.8,23.2
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2015,12.27,107772.0,6.2,15.3
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2016,12.16,104024.0,5.0,20.1
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2017,12.54,113477.0,5.7,26.7
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2018,12.1,112330.0,6.6,22.2
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2019,12.95,119172.0,5.1,21.5
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2020,12.77,117433.0,7.8,12.7
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2021,12.87,116771.0,4.5,26.3
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2022,12.41,123539.0,7.3,15.9
+SK,Saskatchewan,PS-FED,Federal government,Public Administration,2023,12.74,129973.0,5.5,15.9
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2010,46.98,80627.0,7.7,14.5
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2011,49.57,82484.0,5.6,20.9
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2012,50.24,83267.0,4.9,20.8
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2013,49.64,79787.0,3.8,14.7
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2014,50.23,84750.0,4.2,26.8
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2015,50.33,93252.0,5.3,16.4
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2016,50.93,92747.0,5.2,19.2
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2017,51.4,87650.0,4.6,19.8
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2018,52.04,88977.0,7.1,14.8
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2019,51.97,99242.0,3.8,26.9
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2020,50.91,100224.0,5.6,27.0
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2021,53.82,103385.0,7.3,17.5
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2022,54.89,96282.0,6.3,23.0
+SK,Saskatchewan,PS-PROV,Provincial and territorial government,Public Administration,2023,54.75,109336.0,7.8,21.0
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2010,28.25,68399.0,6.6,25.2
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2011,27.72,70577.0,4.9,20.2
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2012,28.46,73216.0,6.6,24.1
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2013,28.77,71741.0,8.1,21.6
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2014,29.22,76817.0,6.0,22.0
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2015,29.61,76245.0,6.3,20.8
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2016,30.18,75096.0,4.6,26.7
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2017,30.07,81563.0,4.4,15.5
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2018,30.15,87013.0,3.8,12.6
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2019,30.74,83622.0,6.6,21.0
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2020,29.6,89901.0,5.2,25.4
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2021,32.04,82198.0,8.0,16.4
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2022,32.71,86277.0,5.9,15.5
+SK,Saskatchewan,PS-LOCAL,Local government,Public Administration,2023,33.31,93590.0,5.1,21.4
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2010,52.56,70334.0,8.5,27.0
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2011,53.3,71975.0,6.7,23.7
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2012,52.89,78759.0,4.1,17.3
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2013,55.12,77529.0,7.7,12.7
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2014,57.53,82086.0,4.5,12.1
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2015,58.82,80795.0,6.8,18.2
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2016,60.34,80872.0,3.8,25.9
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2017,61.61,84827.0,8.0,21.2
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2018,64.2,85943.0,4.1,22.8
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2019,64.89,95081.0,5.7,17.5
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2020,69.27,93315.0,4.8,14.8
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2021,71.62,91681.0,4.4,12.3
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2022,69.7,98895.0,3.9,13.2
+SK,Saskatchewan,PS-HLTH,Health care and social assistance (public),Health & Social,2023,70.89,94976.0,8.3,26.6
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2010,38.27,71985.0,5.4,12.6
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2011,38.42,79356.0,4.0,21.0
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2012,38.55,76722.0,5.9,19.1
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2013,39.65,80855.0,4.5,15.8
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2014,40.1,82140.0,5.5,18.5
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2015,40.79,84883.0,4.4,13.7
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2016,41.92,89073.0,4.2,16.7
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2017,42.59,89609.0,5.8,22.4
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2018,42.75,89981.0,4.0,25.1
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2019,44.34,94405.0,4.8,24.9
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2020,40.58,96044.0,6.5,18.8
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2021,45.44,99627.0,6.8,21.4
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2022,45.75,100316.0,5.3,12.8
+SK,Saskatchewan,PS-EDU,Educational services (public),Education,2023,46.86,98172.0,8.1,19.8
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2010,6.92,88006.0,7.6,25.8
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2011,7.01,90326.0,6.4,23.5
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2012,6.95,90660.0,8.3,16.8
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2013,6.84,94615.0,4.5,13.8
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2014,7.1,94498.0,5.0,21.7
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2015,6.99,102600.0,7.8,22.7
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2016,7.12,100731.0,8.5,15.9
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2017,7.13,111243.0,6.3,21.8
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2018,7.1,105067.0,3.6,22.1
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2019,7.51,106348.0,4.9,18.8
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2020,7.14,113020.0,5.2,18.3
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2021,7.36,116598.0,5.5,17.3
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2022,7.36,118603.0,7.8,12.7
+SK,Saskatchewan,PS-UTIL,Utilities (public),Utilities,2023,7.25,122227.0,6.5,26.7
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2010,5.89,66533.0,7.3,23.9
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2011,5.96,70902.0,5.3,24.4
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2012,6.16,72332.0,7.6,16.4
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2013,6.08,73612.0,7.8,21.3
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2014,6.25,79413.0,7.1,24.0
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2015,6.28,81600.0,8.1,24.1
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2016,6.27,82073.0,8.0,26.9
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2017,6.19,81856.0,5.3,25.1
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2018,6.37,83030.0,4.2,26.4
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2019,6.43,89647.0,5.6,24.5
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2020,6.19,92442.0,4.2,28.0
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2021,6.66,94752.0,6.8,22.9
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2022,6.59,98171.0,4.6,25.3
+SK,Saskatchewan,PS-TRANS,Transportation and warehousing (public),Transportation,2023,6.73,92861.0,7.4,15.0
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2010,3.91,84603.0,3.9,15.1
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2011,4.05,87473.0,6.3,18.2
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2012,3.96,82948.0,5.7,18.6
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2013,4.13,93467.0,6.9,12.7
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2014,4.06,87586.0,5.4,14.3
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2015,4.09,100670.0,5.3,14.6
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2016,4.08,100069.0,4.8,24.4
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2017,4.11,97556.0,7.1,19.5
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2018,4.23,99590.0,4.2,17.7
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2019,4.23,109505.0,7.4,12.1
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2020,4.33,108809.0,8.3,25.1
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2021,4.38,114155.0,5.3,19.1
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2022,4.31,111916.0,7.2,13.5
+SK,Saskatchewan,PS-DEF,Defence and security services,Public Administration,2023,4.26,112204.0,8.2,14.5
+YT,Yukon,PS-FED,Federal government,Public Administration,2010,3.0,94960.0,7.6,23.8
+YT,Yukon,PS-FED,Federal government,Public Administration,2011,2.93,95017.0,7.6,17.6
+YT,Yukon,PS-FED,Federal government,Public Administration,2012,3.0,94220.0,3.5,21.2
+YT,Yukon,PS-FED,Federal government,Public Administration,2013,3.14,96654.0,8.2,20.5
+YT,Yukon,PS-FED,Federal government,Public Administration,2014,3.08,102766.0,4.5,13.0
+YT,Yukon,PS-FED,Federal government,Public Administration,2015,3.13,100779.0,4.0,23.8
+YT,Yukon,PS-FED,Federal government,Public Administration,2016,3.11,110313.0,7.5,14.3
+YT,Yukon,PS-FED,Federal government,Public Administration,2017,3.11,102738.0,6.7,13.0
+YT,Yukon,PS-FED,Federal government,Public Administration,2018,3.07,116915.0,6.9,14.1
+YT,Yukon,PS-FED,Federal government,Public Administration,2019,3.11,115916.0,6.4,28.0
+YT,Yukon,PS-FED,Federal government,Public Administration,2020,3.21,117751.0,5.3,17.9
+YT,Yukon,PS-FED,Federal government,Public Administration,2021,3.2,119157.0,7.9,14.3
+YT,Yukon,PS-FED,Federal government,Public Administration,2022,3.19,130870.0,5.1,22.6
+YT,Yukon,PS-FED,Federal government,Public Administration,2023,3.3,124730.0,7.8,16.0
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2010,7.19,79755.0,3.6,16.1
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2011,7.0,80132.0,4.1,22.0
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2012,7.11,81332.0,7.4,21.5
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2013,7.14,82313.0,5.8,17.2
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2014,7.41,82864.0,4.4,15.1
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2015,7.33,92498.0,5.7,16.0
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2016,7.36,88208.0,4.9,26.6
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2017,7.55,95988.0,5.2,25.5
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2018,7.54,97121.0,7.7,24.0
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2019,7.68,100789.0,5.3,12.0
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2020,7.37,101361.0,6.5,21.6
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2021,7.83,105190.0,8.4,21.9
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2022,7.96,107918.0,4.9,13.0
+YT,Yukon,PS-PROV,Provincial and territorial government,Public Administration,2023,8.08,103655.0,6.8,26.1
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2010,3.03,66722.0,6.9,14.4
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2011,3.08,74483.0,4.0,14.8
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2012,3.02,73626.0,6.8,14.5
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2013,3.08,73061.0,4.2,12.3
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2014,3.15,72065.0,5.1,14.1
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2015,3.24,75302.0,7.8,24.0
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2016,3.29,79240.0,5.1,23.5
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2017,3.35,78334.0,6.3,16.7
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2018,3.21,86019.0,5.6,24.7
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2019,3.37,84512.0,6.3,22.1
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2020,3.16,88315.0,6.4,19.6
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2021,3.47,91697.0,8.0,26.6
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2022,3.49,90392.0,3.8,21.6
+YT,Yukon,PS-LOCAL,Local government,Public Administration,2023,3.46,95526.0,3.7,23.4
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2010,5.05,70849.0,6.6,15.6
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2011,5.19,75562.0,6.5,13.1
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2012,5.18,74006.0,6.7,21.8
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2013,5.37,76269.0,7.2,24.3
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2014,5.47,80881.0,5.6,14.9
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2015,5.62,76023.0,4.1,22.7
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2016,5.8,81130.0,3.7,21.0
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2017,5.96,86678.0,7.4,18.0
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2018,5.95,86093.0,5.7,14.9
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2019,6.25,93764.0,6.5,17.8
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2020,6.72,93937.0,8.1,24.8
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2021,6.94,90474.0,5.6,12.2
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2022,6.7,96723.0,4.5,23.1
+YT,Yukon,PS-HLTH,Health care and social assistance (public),Health & Social,2023,6.89,99748.0,6.8,25.3
+YT,Yukon,PS-EDU,Educational services (public),Education,2010,3.95,70028.0,5.3,20.8
+YT,Yukon,PS-EDU,Educational services (public),Education,2011,4.07,77731.0,4.3,21.2
+YT,Yukon,PS-EDU,Educational services (public),Education,2012,4.12,82745.0,7.8,18.0
+YT,Yukon,PS-EDU,Educational services (public),Education,2013,4.2,78331.0,5.6,12.2
+YT,Yukon,PS-EDU,Educational services (public),Education,2014,4.28,81214.0,7.3,26.3
+YT,Yukon,PS-EDU,Educational services (public),Education,2015,4.33,86112.0,6.2,25.7
+YT,Yukon,PS-EDU,Educational services (public),Education,2016,4.48,93472.0,8.0,25.7
+YT,Yukon,PS-EDU,Educational services (public),Education,2017,4.39,90513.0,4.0,13.0
+YT,Yukon,PS-EDU,Educational services (public),Education,2018,4.5,91917.0,5.6,26.5
+YT,Yukon,PS-EDU,Educational services (public),Education,2019,4.47,95410.0,6.6,24.4
+YT,Yukon,PS-EDU,Educational services (public),Education,2020,4.3,94640.0,6.9,13.7
+YT,Yukon,PS-EDU,Educational services (public),Education,2021,4.83,99854.0,8.5,13.6
+YT,Yukon,PS-EDU,Educational services (public),Education,2022,4.74,101345.0,3.8,13.1
+YT,Yukon,PS-EDU,Educational services (public),Education,2023,4.84,100310.0,7.9,22.4
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2010,1.01,89038.0,5.0,16.4
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2011,1.0,88262.0,8.0,14.5
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2012,1.03,96178.0,6.8,26.6
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2013,1.01,91181.0,6.7,24.6
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2014,1.02,98504.0,3.8,14.9
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2015,1.0,103898.0,8.3,12.6
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2016,1.02,101739.0,7.3,13.4
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2017,1.06,105200.0,6.0,15.8
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2018,1.02,111172.0,8.1,23.9
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2019,1.04,104042.0,5.6,17.7
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2020,0.99,117782.0,7.2,24.8
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2021,1.04,107324.0,6.1,15.6
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2022,1.04,120427.0,6.2,23.6
+YT,Yukon,PS-UTIL,Utilities (public),Utilities,2023,1.05,127677.0,8.5,19.4
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2010,0.98,68223.0,7.2,26.1
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2011,1.01,68671.0,5.8,25.1
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2012,1.01,73163.0,4.1,24.4
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2013,1.02,75764.0,8.0,22.6
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2014,1.03,77930.0,6.5,24.2
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2015,1.05,78756.0,7.1,23.3
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2016,1.04,82119.0,7.3,20.2
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2017,1.05,81940.0,7.1,20.4
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2018,1.07,87462.0,4.5,17.6
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2019,1.07,85125.0,7.7,23.5
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2020,1.04,93292.0,4.3,23.0
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2021,1.14,90877.0,7.5,22.7
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2022,1.11,100359.0,6.8,20.8
+YT,Yukon,PS-TRANS,Transportation and warehousing (public),Transportation,2023,1.1,91149.0,6.1,19.6
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2010,1.01,84051.0,5.2,16.3
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2011,1.02,87213.0,7.9,27.1
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2012,1.03,79961.0,7.4,27.9
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2013,1.0,89804.0,4.8,12.7
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2014,1.04,94034.0,6.1,20.9
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2015,1.03,104105.0,3.7,22.3
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2016,1.01,95826.0,5.2,25.2
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2017,1.01,99946.0,4.5,22.2
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2018,1.04,96640.0,4.3,14.6
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2019,1.03,108475.0,4.4,23.4
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2020,1.08,109636.0,4.6,24.6
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2021,1.05,105252.0,3.7,16.2
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2022,1.08,114071.0,3.9,27.5
+YT,Yukon,PS-DEF,Defence and security services,Public Administration,2023,1.07,116624.0,7.7,12.4
